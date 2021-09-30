@@ -5,7 +5,13 @@ What is a grape 🍇 ? (noun) a grape is "a berry, typically green (classified a
 First, one must know the 16 types of grapes: more descriptions may be found [here](https://www.healthline.com/nutrition/types-of-grapes)
 1. Concord (purple-blue)
 2. Cotton Candy (green)
+
+![img](https://www.tasteofhome.com/wp-content/uploads/2020/04/cotton-candy-grapes.jpg)
+
 3. Moon Drops (black-purple)
+
+![img](https://www.chowhound.com/blog-media/2021/09/moon-drop-grapes-long-grapes-chowhound.jpg)
+
 4. Flame Seedless (deep red)
 5. Dominga (yellow-green)
 6. Red globe (rosy-red)
@@ -19,3 +25,5 @@ First, one must know the 16 types of grapes: more descriptions may be found [her
 14. Marquis (green)
 15. Koshu (pale purple)
 16. Kyoho (black-purple)
+
+![img](https://greenseedgarden.com/wp-content/uploads/2018/06/Kyoho-grapes-2.jpg)
